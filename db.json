@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Jessie Bechtelar II",
+      "id": 3
+    },
+    {
+      "name": "Jana McLaughlin",
+      "id": 7
+    },
+    {
+      "name": "Troy Miller",
+      "id": 9
+    },
+    {
+      "name": "Sammy Mitchell",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "userId": 7,
+      "title": "Handmade Metal Shirt",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Steel Mouse",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47744",
+      "id": 1
+    }
+  ]
+}
